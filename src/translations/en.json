@@ -9,5 +9,37 @@
     "line1": "Connecting People",
     "line2": "With The Same",
     "line3": "Academic Interest"
+  },
+  "section1_desc": "Building Communities Based On Common Academic Interests",
+  "section2": {
+    "title": "UpMate's Features",
+    "feature1": {
+      "title": "Interest Tag Recommendations",
+      "desc": "Suggests relevant tags based on users' activities and interests."
+    },
+    "feature2": {
+      "title": "Recommendation for Person, Event, Course, Information (PECI)",
+      "desc": "Provides recommendations related to people, events, courses, and information based on user preferences."
+    },
+    "feature3": {
+      "title": "Realtime chat",
+      "desc": "Communicate with each other in real time."
+    },
+    "feature4": {
+      "title": "Share a post",
+      "desc": "Share content or information with other users on UpMate."
+    },
+    "feature5": {
+      "title": "Bad Word Detector",
+      "desc": "Identifies and handles inappropriate or offensive words in posted content."
+    },
+    "feature6": {
+      "title": "Spam Detector",
+      "desc": "Identifies and deals with messages or content deemed spam or irrelevant."
+    },
+    "feature7": {
+      "title": "Explore about anything relate about user interest",
+      "desc": "This explore content or information about topics or interests relevant to their interests."
+    }
   }
 }

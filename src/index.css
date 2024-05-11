@@ -9,3 +9,51 @@
   font-style: normal;
   color: #242a2e;
 }
+
+::-webkit-scrollbar {
+  width: 1rem;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 0rem 2rem 0rem 2rem;
+  background: #474747;
+  transition: all 0.5s ease-in-out;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #222224;
+}
+
+::-webkit-scrollbar-track {
+  background: #f9f9f9;
+}
+
+.section1-img {
+  height: 420px;
+}
+
+.custom-border {
+  border-radius: 3px 200px 3px 200px;
+  box-shadow: 0px 0px 20px black;
+}
+
+.card {
+  height: 380px;
+  border-radius: 60px;
+  background-size: cover;
+  background-position: center;
+}
+
+.slider-arrow {
+  color: white;
+}
+
+@media (max-width: 992px) {
+  .section1-img {
+    height: 300px;
+  }
+
+  .custom-border {
+    border-radius: 3px 100px 3px 100px;
+  }
+}

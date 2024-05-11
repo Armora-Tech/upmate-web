@@ -20,10 +20,9 @@ export function Navbar() {
   const { t } = useTranslation();
   const [navbarColor, setNavbarColor] = useState(false);
   const [dropdownVisible, setDropdownVisible] = useState(false);
-  const [isMenuClicked, setIsMenuClicked] = useState(false);
-  const transitionDurationClass = "transition duration-500";
+  const transitionDurationClass = "transition duration-700";
   const textColorClass = navbarColor ? "text-textBlack" : `text-textWhite ${transitionDurationClass}`;
-  const navbarBackgroundClass = navbarColor ? `bg-white ${transitionDurationClass}` : "";
+  const navbarBackgroundClass = navbarColor ? `bg-white shadow-lg ${transitionDurationClass}` : "";
   const iconColorClass = navbarColor ? "#242a2e" : "#e7e7e7";
 
   useEffect(() => {
@@ -42,10 +41,6 @@ export function Navbar() {
       window.removeEventListener("scroll", handleScroll);
     };
   }, []);
-
-  const handleMenu = () => {
-    setIsMenuClicked(!isMenuClicked);
-  };
 
   const handleMouseEnter = () => {
     setDropdownVisible(true);

@@ -9,5 +9,37 @@
     "line1": "Menghubungkan Orang-Orang",
     "line2": "Dengan Minat",
     "line3": "Akademis Yang Sama"
+  },
+  "section1_desc": "Membangun Komunitas Berdasarkan Minat Akademik Yang Sama",
+  "section2": {
+    "title": "Fitur-Fitur UpMate",
+    "feature1": {
+      "title": "Minat Rekomendasi Tag",
+      "desc": "Memberikan saran tag yang sesuai dengan minat pengguna berdasarkan aktivitas mereka."
+    },
+    "feature2": {
+      "title": "Rekomendasi untuk Orang, Acara, Kursus, Informasi",
+      "desc": "Memberikan rekomendasi terkait orang, acara, kursus, dan informasi berdasarkan preferensi pengguna."
+    },
+    "feature3": {
+      "title": "Obrolan waktu nyata",
+      "desc": "Fitur obrolan real-time memungkinkan pengguna untuk berkomunikasi satu sama lain dalam waktu nyata."
+    },
+    "feature4": {
+      "title": "Bagikan postingan",
+      "desc": "Membagikan konten atau informasi kepada pengguna lain di UpMate."
+    },
+    "feature5": {
+      "title": "Pendeteksi Kata Buruk",
+      "desc": "Detektor kata-kata kasar mengidentifikasi dan menangani kata-kata yang tidak pantas atau kasar dalam konten yang diposting."
+    },
+    "feature6": {
+      "title": "Pendeteksi Spam",
+      "desc": "Detektor spam mengidentifikasi dan mengatasi pesan atau konten yang dianggap spam atau tidak relevan."
+    },
+    "feature7": {
+      "title": "Jelajahi tentang apa pun yang berhubungan dengan minat pengguna",
+      "desc": "Menjelajahi konten atau informasi tentang topik atau minat yang relevan dengan minat mereka."
+    }
   }
 }
