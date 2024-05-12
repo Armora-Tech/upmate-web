@@ -10,15 +10,18 @@
     "line2": "Dengan Minat",
     "line3": "Akademis Yang Sama"
   },
-  "section1_desc": "Membangun Komunitas Berdasarkan Minat Akademik Yang Sama",
+  "section1": {
+    "title": "Membangun Komunitas Dengan Minat Akademik Yang Sama",
+    "desc": "UpMate adalah aplikasi seluler yang berfungsi sebagai platform untuk membangun komunitas berdasarkan minat akademis yang sama dalam upaya menghubungkan individu dengan minat yang sama di bidang akademis. Komunitas tersebut memfasilitasi pertukaran pengetahuan, pengalaman, dan dukungan di antara para anggotanya, memperkuat kolaborasi dan pemahaman yang lebih dalam di bidang yang diminati."
+  },
   "section2": {
-    "title": "Fitur-Fitur UpMate",
+    "title": "Temukan Fitur Menarik!",
     "feature1": {
-      "title": "Minat Rekomendasi Tag",
+      "title": "Minat rekomendasi tag",
       "desc": "Memberikan saran tag yang sesuai dengan minat pengguna berdasarkan aktivitas mereka."
     },
     "feature2": {
-      "title": "Rekomendasi untuk Orang, Acara, Kursus, Informasi",
+      "title": "Rekomendasi untuk orang, acara, kursus, dan informasi",
       "desc": "Memberikan rekomendasi terkait orang, acara, kursus, dan informasi berdasarkan preferensi pengguna."
     },
     "feature3": {
@@ -30,16 +33,26 @@
       "desc": "Membagikan konten atau informasi kepada pengguna lain di UpMate."
     },
     "feature5": {
-      "title": "Pendeteksi Kata Buruk",
+      "title": "Pendeteksi kata buruk",
       "desc": "Detektor kata-kata kasar mengidentifikasi dan menangani kata-kata yang tidak pantas atau kasar dalam konten yang diposting."
     },
     "feature6": {
-      "title": "Pendeteksi Spam",
+      "title": "Pendeteksi spam",
       "desc": "Detektor spam mengidentifikasi dan mengatasi pesan atau konten yang dianggap spam atau tidak relevan."
     },
     "feature7": {
       "title": "Jelajahi tentang apa pun yang berhubungan dengan minat pengguna",
       "desc": "Menjelajahi konten atau informasi tentang topik atau minat yang relevan dengan minat mereka."
     }
+  },
+  "footer": {
+    "service": {
+      "title": "Layanan",
+      "list1": "Privasi dan Kebijakan",
+      "list2": "Syarat dan Ketentuan"
+    },
+    "others": "Lainnya",
+    "connect_with_us": "Terhubung dengan kami",
+    "download": "Unduh"
   }
 }

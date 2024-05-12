@@ -10,9 +10,12 @@
     "line2": "With The Same",
     "line3": "Academic Interest"
   },
-  "section1_desc": "Building Communities Based On Common Academic Interests",
+  "section1": {
+    "title": "Building Communities Based On Common Academic Interests",
+    "desc": "UpMate is a mobile apps that serves as a platform for building communities based on shared academic interests in an effort to connect individuals with similar interests in academia. Such communities facilitate the exchange of knowledge, experience and support among its members, strengthening collaboration and deeper understanding in the area of interest."
+  },
   "section2": {
-    "title": "UpMate's Features",
+    "title": "Find Interesting Features!",
     "feature1": {
       "title": "Interest Tag Recommendations",
       "desc": "Suggests relevant tags based on users' activities and interests."
@@ -41,5 +44,15 @@
       "title": "Explore about anything relate about user interest",
       "desc": "This explore content or information about topics or interests relevant to their interests."
     }
+  },
+  "footer": {
+    "service": {
+      "title": "Service",
+      "list1": "Privacy & Policy",
+      "list2": "Terms & Conditions"
+    },
+    "others": "Others",
+    "connect_with_us": "Connect With Us",
+    "download": "Download"
   }
 }
