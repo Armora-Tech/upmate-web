@@ -54,5 +54,72 @@
     "others": "Others",
     "connect_with_us": "Connect With Us",
     "download": "Download"
+  },
+  "terms_conditions": {
+    "usage_agreement": {
+      "title": "APPLICATION SERVICE USAGE AGREEMENT",
+      "paragraph1": "The application service usage agreement in the UpMate application (“Agreement”) constitutes an agreement between users who use the UpMate application and Armora Tech as the manager of the UpMate application, which includes terms and conditions of use of the UpMate application services that apply to users in order to use the UpMate application. All UpMate application users are expected to read carefully and thoroughly. Users are advised to read, understand, accept, and agree to all the terms and conditions in this agreement before using the application and accepting the content contained therein.",
+      "paragraph2": "By using the application and/or continuing to access the UpMate application, Users must agree to the terms and conditions contained in the application by clicking the (“Agreement”) checkbox on the registration page, and therefore Users agree to be bound in a contract with the manager and thereby Users express agreement to be able to accept the services and access to all content contained in this application.",
+      "paragraph3": "If the user does not accept and agree to this Agreement, then access to the UpMate application is not permitted and users are welcome to leave the UpMate application. Any activities related to the use of the application, then both the manager and the user in this case have been legally protected through the Law of the Republic of Indonesia No. 11 of 2008 concerning Information and Technology, Law of the Republic of Indonesia No. 19 of 2002 concerning Copyright, and against any form of agreement arising from any activity in the UpMate application has fulfilled the norms and requirements of a valid agreement as stipulated in the Indonesian Civil Code."
+    },
+    "introduction": {
+      "title": "INTRODUCTION",
+      "1": "1. This agreement is governed and interpreted based on the laws of the Republic of Indonesia (Indonesia). The parties mentioned in this Agreement hereby agree to submit to the jurisdiction in Indonesia.",
+      "2": "2. In this Agreement, the term “User” refers to individuals, whether Indonesian citizens, foreigners, or legal entities capable of using computers, networks, computers, and/or other electronic media capable of accessing the UpMate application according to their needs. In this case, this includes Users who have registered on the application as Users.",
+      "3": "3. By using the application, Users included in the category of users as mentioned in points 1 and 2 above, consciously and without coercion from any party declare themselves to agree to accept all the terms and conditions in the Agreement that apply when Users use this application. If the user does not accept all the terms and conditions stated in this Agreement, then the user is required to immediately leave the UpMate application.",
+      "4": "4. We as the manager have the right to change or update this Agreement at any time by including the amended or updated Agreement in UpMate and the terms and conditions that have been amended or updated are included by the UpMate application, and Users are required to read the new terms and conditions at all times and are considered to have agreed to such changes or updates if after being included in UpMate and Users still continue to use the UpMate application.",
+      "5": "5. In the UpMate application, there will be connections or hyperlinks connected to third-party sites contained in links outside of UpMate and we hereby state that we are not responsible for the content of links outside the UpMate application or sites posted by third parties (content), both entered by users whose names are not mentioned or by content providers who receive payment, or not made by us. In addition, we are not responsible for activities carried out by Users and cannot be held accountable by anyone related to losses suffered by other parties as a result of User actions."
+    },
+    "conditions": {
+      "title": "USER CONDITIONS",
+      "headline1": "A. Requirements for Users to Use UpMate",
+      "paragraph1": "In using the services provided by us, there are requirements that must be applied. We want our services to be general and beneficial. However, we ask users to comply with some rules provided by us, so as to prevent undesirable things and our services become comfortable, safe, and comply with applicable law. The main requirement for using the UpMate application is that users must be 13 years old, to anticipate undesirable things. Then we ask users not to use our application to commit crimes, because when users do such actions then we will deactivate your account. By complying with and agreeing to the terms we have made, you can become part of our community, namely UpMate.",
+      "headline2": "B. Content Limitations",
+      "paragraph2": "We provide users with access to create content in our application, but there are also limitations in creating content in our application in order to prevent content that contains illegal elements. Users are responsible for the use of services and any content you provide, including compliance with legal, regulatory, and regulatory requirements. Users are only allowed to create content that provides comfort to be shared with others, and does not contain elements that harm others and do not violate the law. There are several aspects that cause your content to be restricted:",
+      "headline3": "Content containing hate speech",
+      "paragraph3": "Users are not allowed to share content that incites individuals or groups based on race, religion, gender, gender identity, caste, immigration status, or other characteristics. Because such actions are discriminatory actions that cause others to be disturbed and violate legal policies. One example of a common violation is statements stating that a protected individual or group is inhumane or inferior. In addition, such as content that promotes symbols of hatred in the form of flags, lambs, symbols, and others. We strongly prohibit such actions when creating or sharing them in the UpMate application.",
+      "headline4": "Sexual content and indecent language",
+      "paragraph4": "Users are prohibited from presenting sexual content and indecent language, such as pornography or services or content aimed at sexual gratification. We will allow content that contains nudity if the content is intended for education, scientific, documentary purposes, and not displayed prominently. One example of a common violation is depictions, animations, poses that tend towards sexual, or sexual depictions of body parts. And it is strictly prohibited to promote entertainment related to sex or other services considered to provide sexual acts for compensation.",
+      "headline5": "Violence",
+      "paragraph5": "Users are prohibited from presenting content that depicts unjustified violence or other harmful actions. We do not allow content that depicts physical violence, such as terrorist content related to terrorism actions, inciting violence, and supporting terrorism actions. We also strongly prohibit when you share content that contains dangerous organizations and movements because such actions can disrupt the comfort of other users and violate the law.",
+      "headline6": "Sensitive events",
+      "paragraph6": "Users are not allowed to present content that contains sensitive events that can have a significant impact on social, cultural, or political aspects such as death, civil emergencies, and tragic events. Some examples of violations include profiting from sensitive events without benefiting victims, and lack of sensitivity to cases of someone's death due to suicide, overdose, etc. We will allow content that contains sensitive events if it has educational, documentary, scientific, artistic value, or aims to warn and raise awareness of sensitive events contained in the content. We also strongly prohibit if the content contains oppression and harassment, such as committing oppression or harassing victims of tragic events, friends, and family.",
+      "headline7": "Hazardous products (tobacco, drugs, etc.)",
+      "paragraph7": "Users are not allowed to share content that contains hazardous products such as facilitating explosives, firearms, and ammunition. Not only that, we also strictly prohibit content that contains tobacco, marijuana, and alcohol. Because these products contain negative things and can disrupt the comfort of other users and may violate the law. Some examples of violations include using the UpMate application for actions related to narcotics/dangerous products transactions, encouraging alcohol/tobacco use to minors, and implying that consuming alcohol can increase social, sexual, intellectual status, and others."
+    },
+    "deletion": {
+      "headline": "C. Content Deletion And Account Deactivation",
+      "paragraph": "In the content you create or share, we may delete it if the content violates the terms of use or when we are requested by authorities to delete the content you create. We have full authority to stop, modify, delete, or block content shared in our application (UpMate), if the content violates the rules available in our application. Users can ask for our help to delete content or accounts from those users. In the deletion process, we will process it within no more than 30 days after the user submits a request. This is the provision and policy of our application. Please be patient during the process of deleting content or account requests during the processing period. Users need to know that if users delete or deactivate user accounts, the terms bound between users and us will end. However, when your account is still available in our data, then that agreement between users and us still applies."
+    },
+    "app_agreements": {
+      "title": "AGREEMENTS IN THE UP MATE APPLICATION",
+      "headline1": "A. Agreement Between Users And Us",
+      "paragraph1": {
+        "1": "• If there are aspects that cannot be enforced in this agreement, then other aspects still apply.",
+        "2": "• If users commit a violation by abusing our application and until it violates the law, then users will be sanctioned in the form of account suspension for several days or permanently.",
+        "3": "• We as managers of this application have all rights, implicitly given to users",
+        "4": "• All agreements related to changes and releases of rights that have been agreed upon between users and us must be made in writing and signed. If the aspect of the agreement fails, it is not considered a release."
+      },
+
+      "headline2": "B. Parties Entitled Under This Agreement",
+      "paragraph2": {
+        "1": "• In this agreement, users cannot transfer rights and obligations to others without our consent.",
+        "2": "• This agreement does not give any rights to third parties.",
+        "3": "• In our rights and obligations in the UpMate application can be transferred to other parties when the application changes ownership such as asset sales or acquisitions."
+      },
+
+      "headline3": "C. Responsible Parties If Something Happens",
+      "paragraph3": {
+        "1": "• We as the application manager do not control what users are doing or saying, and when users create content that violates the law, we are not responsible for the actions users take, so it is entirely the responsibility of users.",
+        "2": "• We are not responsible for the features and services of others or third parties offered to users, even if they offer them through our services. So users are advised to be careful when someone offers something sent to users.",
+        "3": "• We as application managers cannot guarantee the services we have will always be safe and function perfectly. We have legal guarantees, both implicit and explicit, regarding the suitability of the applications we make.",
+        "4": "• The responsibility we have is limited as far as allowed by law when something happens to our services. If at some point there is a problem with the services we have, we cannot fully know the possible impacts that occur. You agree that we from the UpMate application party are not obligated to be responsible for the loss of information, data, income, or damages, indirect, and others. Even though we from the application manager side know that you will suffer losses."
+      }
+    },
+    "privacy": {
+      "title": "PRIVACY POLICY",
+      "paragraph1": "Our Privacy Policy",
+      "paragraph2": "explains how we handle the information you have provided to us when you are using our application service, namely UpMate. We hope you to read and understand the Privacy Policy contained in our application. You understand that through the use of services, you agree to the use and collection as stipulated in the Privacy Policy contained in UpMate."
+    }
   }
 }
