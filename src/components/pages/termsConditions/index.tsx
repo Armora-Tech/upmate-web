@@ -12,8 +12,9 @@ export function TermsConditions() {
   const { t } = useTranslation();
   return (
     <MyApp>
-      <div className="min-h-screen px-10 text-justify">
-        <h1 className="mt-32 min-w-full text-4xl mb-5 font-bold">{t("footer.service.list2")}</h1>
+      <div className="min-h-screen md:px-10 px-5 text-justify">
+        <h1 className="mt-32 min-w-full md:text-4xl text-3xl mb-5 font-bold text-start">{t("footer.service.list2")}</h1>
+        <a className="font-semibold underline" href="/">{t("back_to_home")}</a>
         <hr />
         <UsageAgreements />
         <br />

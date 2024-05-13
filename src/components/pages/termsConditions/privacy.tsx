@@ -1,7 +1,6 @@
 import { useTranslation } from "react-i18next";
 
 import { Headline1 } from "../../shared/headline1";
-import { Paragraph } from "../../shared/paragraph";
 
 export function Privacy() {
   const { t } = useTranslation();

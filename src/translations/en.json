@@ -55,6 +55,7 @@
     "connect_with_us": "Connect With Us",
     "download": "Download"
   },
+  "back_to_home": "Back To Home",
   "terms_conditions": {
     "usage_agreement": {
       "title": "APPLICATION SERVICE USAGE AGREEMENT",
@@ -120,6 +121,84 @@
       "title": "PRIVACY POLICY",
       "paragraph1": "Our Privacy Policy",
       "paragraph2": "explains how we handle the information you have provided to us when you are using our application service, namely UpMate. We hope you to read and understand the Privacy Policy contained in our application. You understand that through the use of services, you agree to the use and collection as stipulated in the Privacy Policy contained in UpMate."
+    }
+  },
+  "privacy_policy": {
+    "opening_paragraph": "The UpMate application is owned by ARMORA TECH, which will control your personal data. We have adopted this Privacy Policy to explain how we process information collected by the UpMate application and its website, which also explains why we need to collect certain personal data about you. Therefore, you should read this Privacy Policy before using the UpMate application and website. We safeguard your personal data and promise to ensure its confidentiality and security.",
+    "data_set": {
+      "title": "DATA WE COLLECT",
+      "headline1": "a) Data provided by users to us",
+      "paragraph1": "When you use our products and services, users must have an account first and if they do not have an account yet, then users must create one first in the registration menu, users are required to input data such as name, email address, and also password. Not only inputting data, users must agree to the policies contained in our application by clicking the “Agreement” checkbox before submitting the input data. This data is useful for registering a new account so that users can later log in. We also automatically collect certain information about your device, including information about web browsers, IP addresses, time zones, and a number of cookies installed on your device. Basically, certain information is required if you want to use many of our products and services. In the profile menu in this application, we can edit our name, email address, and several options for information about the fields of interest, such as programming, animation, design, technopreneurship, and others. In the information on the options of the fields of interest, it can help you find friends and business opportunities according to the fields of interest.",
+      "headline2": "b) Messages",
+      "paragraph2": "In the message section when users are sending, receiving, or contacting application services, we will collect information about these matters. One example is if the user receives a connection request on the UpMate application, then the administrator will follow up on that request. Then the system will send notifications to the user. In the message menu, we have an automatic scanning feature, so to protect our application from the possibility of messages that violate user agreements or policies from our services. When users violate our policies in sending messages or content, they will be sanctioned.",
+      "headline3": "c) Service Users",
+      "paragraph3": "When users are visiting our services from sites, applications, and technologies on the UpMate platform, we will record all user activities in the form of usage data. For example, when users are selecting or viewing content and also when installing and updating our application. In recording user usage data, users are not only based on that alone but also on login, internet protocol address or IP, and cookies.",
+      "headline4": "d) Others",
+      "paragraph4": "In this UpMate application, there are dynamic services whose conditions are constantly changing. The services provided to you will be updated more frequently by introducing new features, new looks, and the latest technology. When we are collecting personal user data there are many and materially different, so it can affect and change the efforts we make such as when using, sharing, and also sharing your data. For the latest information on the development of this application will be informed through notifications."
+    },
+    "how_we_collect_data": {
+      "title": "HOW WE COLLECT DATA",
+      "paragraph": "In using your personal data that we collect depends on how you use the service and set information options from the settings you make. We use the information obtained to provide, operate the UpMate product and service. In using this information also aims to improve, personalize, and our services, so that users have a better experience on UpMate, including displaying content and ads to be more relevant, suggesting people and topics to follow.",
+      "headline1": "a) Services",
+      "paragraph1": "We use the information we have collected to improve, personalize our products and services so that users have an interesting experience on the UpMate application. In the services we have, you can follow and see the latest information about friends, relatives, and professionals according to their respective fields. Not only that, but we also use your data to make it easier for other users to find your profile and allow other users to become friends who will be connected with you.",
+      "headline2": "b) Security and Investigation",
+      "paragraph2": "We are responsible for the use of information we collect from user data, so we will provide safety and security for our service users including user account security. By providing security for user data aims to protect from fraud, illegal activities, and efforts that harm other users. We also use this information to evaluate the security and quality of content on the UpMate application. We will continue to investigate and enforce applicable policies and terms.",
+      "headline3": "c) Communication and about our services",
+      "paragraph3": "We use the information we have collected for communicating with you about application updates, changes to policies and terms of our application services. In contacting you about these matters, we will send them via email. For notifications about content posts, incoming messages, and other notifications will appear on your mobile phone notifications.",
+      "headline4": "d) Service Development and Research",
+      "paragraph4": "We use the information you provide to us to conduct surveys, research, and service development aimed at improving the services we have now to be better in the future. We will conduct surveys conducted by our team through our services where you are not required to fill out surveys from us, but we hope you fill out the survey to make our services better."
+    },
+    "how_we_share_info": {
+      "title": "HOW WE SHARE INFORMATION",
+      "content1": {
+        "headline": "a) Posting, liking, commenting, and following",
+        "paragraph": "With the services we have, UpMate application users can view and share information including through posting, liking, commenting, and following.",
+        "1": "● When users share posts or content generally, the posts can be seen by everyone and can be shared anywhere including third-party services. You should know that publicly shared content can be seen by members, visitors, and others. Not only content but also names and profile photos can be seen by members and visitors.",
+        "2": "● When you interact by commenting, liking, or sharing other users' content or posts, then other users can see that activity and link it to you.",
+        "3": "● When you follow someone or a forum, you will be seen by others or the owner of the forum as a follower.",
+        "4": "● In forum services, posts will be visible to others who are in the forum. Activities in the forum are public, but settings in the forum can be changed to private."
+      },
+      "content2": {
+        "headline": "b) Legal Disclosure, to prevent dangers of public interest.",
+        "paragraph1": "We may disclose information about you when needed such as court call time or other legal processes and if we believe it is reasonably necessary to:",
+        "1": "● Protect the security and rights of our platform, our members, personnel, or others.",
+        "2": "● Address fraud, technical issues, or protect security",
+        "3": "● Investigate or take action on suspected illegal activities or assist government agencies",
+        "4": "● Comply with laws, regulations, and legal processes",
+        "5": "● Protect the security of anyone and our platform, including preventing spam and abuse on our services",
+        "6": "● Explain the deletion of content or posts from our platform services, such as due to violations of rules or policies in our services",
+        "paragraph2": "We strive to maintain the security and safety of our service users. We also strive to inform members about the law regarding their personal data unless there is an emergency request or prohibited by law enforcement."
+      }
+    },
+    "right_obligations": {
+      "title": "RIGHTS AND OBLIGATIONS",
+      "content1": {
+        "headline": "a) Content and Behavior Policies",
+        "paragraph1": "Your obligations as a user of the UpMate application are to pay attention to unpleasant content and behavior policies. Before you share content, please filter out negative content first. When you share content containing negative things, it can harm other users or others. Inappropriate content you distribute on this application includes:",
+        "1": "• Content containing defamation, racist, obscene, violent, gambling, and illegal acts",
+        "2": "• Content that violates the rights of any third party, including copyright, privacy, publicity, personal rights, or other rights, or that is deceptive and fraudulent.",
+        "3": "• Content that promotes the sale and use of illegal substances, tobacco products, ammunition, and firearms.",
+        "paragraph2": "Each user can tag content they consider inappropriate for review. Content will be moderated to ensure timely removal of any and all inappropriate content. For users who violate the policies described above, they will be sanctioned and responsible for the actions they have taken in sharing content. For those who violate these policies, user accounts will have their access restricted in using the UpMate application."
+      },
+      "content2": {
+        "headline": "b) Data Retention",
+        "paragraph": "In general, we will store user personal data as long as you are still active in using our platform in the same account and including data provided by you or others from using our services. If when users use our services for a short period of time just to browse our services and then do not use our services again, we will keep your profile open unless you want to close or delete your account."
+      },
+      "content3": {
+        "headline": "c) Right to Access and Control Your Personal Data",
+        "paragraph": "We provide UpMate for people all over the world and provide the same privacy tools and controls for all users of our services both locally and from other countries. We have considered the legal reasons why it is allowed to collect, process, and use information from users of our services. We also provide several options regarding the use and sharing of your data, edit and delete user data included in the profile, and control the visibility of user posts to exclude ads.\n\nOn personal data that we have related to you, users have rights such as:",
+        "1": "● Change or edit data: You have the right to change some of your personal data through your account and can also request assistance to update data through our services when the submitted data is inaccurate.",
+        "2": "● Right to obtain and access your data: Users are given the right to request us to copy their personal data",
+        "3": "● Limit data usage: Users are allowed to request us to stop using some of their personal data when we do not have legal rights.",
+        "4": "● Delete data: Users are allowed to request our services to delete some or all of their personal data."
+      }
+    },
+    "other_important_information": {
+      "title": "OTHER IMPORTANT INFORMATION",
+      "headline1": "a) Security",
+      "paragraph1": "We implement security protections such as HTTPS to protect the security of users' personal data. To maintain your security and privacy, we implement steps such as verifying user identity before we give you access to your personal information or other related requests. We have the authority to deny access when you cannot verify your identity. We also regularly monitor our service system for possible attacks or vulnerabilities, so we cannot guarantee and there is no guarantee of the security of any information you have sent to our platform. For further questions, you can visit our security center directly.",
+      "headline2": "b) Contact Information",
+      "paragraph2": "If you want to contact us to learn more about this Policy or ask any questions related to individual rights and your personal Information, you can email us at dev@armora-tech.com."
     }
   }
 }

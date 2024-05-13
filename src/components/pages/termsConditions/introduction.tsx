@@ -16,7 +16,7 @@ export function Introduction() {
     <>
       <Headline1>{t("terms_conditions.introduction.title")}</Headline1>
       <ul>
-        {introductionData.map((data, index) => (
+        {introductionData.map((data) => (
           <li className="mb-5" key={data}>
             <Paragraph>{data}</Paragraph>
           </li>

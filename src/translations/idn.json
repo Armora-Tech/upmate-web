@@ -55,6 +55,7 @@
     "connect_with_us": "Terhubung dengan kami",
     "download": "Unduh"
   },
+  "back_to_home": "Kembali Ke Beranda",
   "terms_conditions": {
     "usage_agreement": {
       "title": "PERJANJIAN PENGGUNAAN LAYANAN APLIKASI",
@@ -120,6 +121,84 @@
       "title": "KEBIJAKAN PRIVASI",
       "paragraph1": "Kebijakan Privasi kami",
       "paragraph2": "menjelaskan tentang bagaimana cara kami dalam menangani informasi yang telah anda berikan kepada kami ketika anda sedang menggunakan layanan aplikasi kami yaitu UpMate. Kami berharap anda untuk membaca dan memahami Kebijakan Privasi yang terdapat pada aplikasi kami. Anda memahami bahwa melalui pengunaan layanan, anda menyetujui pengunaan dan pengumpulan yang sudah diatur dalam Kebijakan Privasi yang tercantum pada UpMate."
+    }
+  },
+  "privacy_policy": {
+    "opening_paragraph": "Aplikasi UpMate dimiliki oleh ARMORA TECH, yang akan mengontrol atas data pribadi anda. Kami telah mengadopsi Kebijakan Privasi ini untuk menjelaskan bagaimana kami memproses informasi yang dikumpulkan oleh aplikasi upmate dan juga websitenya, yang juga menjelaskan alasan mengapa kami perlu mengumpulkan data pribadi tertentu tentang Anda. Oleh karena itu, Anda harus membaca Kebijakan Privasi ini sebelum menggunakan aplikasi dan website UpMate. Kami menjaga data pribadi Anda dan berjanji untuk menjamin kerahasiaan dan keamanannya.",
+    "data_set": {
+      "title": "DATA YANG KAMI KUMPULKAN",
+      "headline1": "a) Data yang diberikan pengguna kepada kami",
+      "paragraph1": "Saat anda menggunakan produk  dan layanan kami, pengguna harus memiliki akun terlebih dahulu dan jika belum mempunyai akun, maka pengguna harus membuatnya terlebih dahulu pada menu registrasi, pengguna diwajibkan untuk menginputkan data berupa nama, alamat email, dan juga kata sandi. Tidak hanya menginputkan data, pengguna harus menyetujui kebijakan yang terdapat pada aplikasi kami dengan mengklik centang “Persetujuan” sebelum mensubmit data yang diinputkan. Data tersebut berguna untuk mendaftarkan sebuah akun baru agar nantinya pengguna dapat melakukan login. Kami juga secara otomatis mengumpulkan informasi tertentu mengenai perangkat anda, termasuk informasi tentang browser web, alamat IP, zona waktu, dan sejumlah cookie yang terinstal di perangkat Anda Pada dasarnya, informasi tertentu diperlukan jika Anda ingin menggunakan banyak produk dan layanan kami.  Pada menu profile dalam aplikasi ini kita dapat mengedit nama kita, alamat email, dan beberapa pilihan informasi tentang keterkaitan bidang yang diminati, seperti programming, animation, design, technopreneurship, dan lain-lain. Dalam informasi pilihan keterkaitan bidang yang diminati dapat membantu anda untuk menemukan teman dan peluang bisnis sesuai dengan bidang yang diminati.",
+      "headline2": "b) Pesan",
+      "paragraph2": "Pada bagian pesan ketika pengguna sedang mengirim, menerima, atau menghubungi layanan aplikasi, maka kami akan mengumpulkan informasi tentang perihal tersebut. Salah satu contohnya jika pengguna mendapatkan permintaan koneksi pada aplikasi UpMate, maka pihak pengelola akan menindaklanjuti permintaan tersebut. Kemudian sistem akan mengirimkan berupa pemberitahuan kepada pengguna. Pada menu pesan kami memiliki fitur pemindaian otomatis , sehingga untuk melindungi aplikasi kami dari kemungkinan pesan yang melanggar perjanjian pengguna atau kebijakan dari layanan kami. Ketika pengguna melanggar kebijakan kami dalam mengirim pesan atau konten, maka akan mendapatkan sanksi. ",
+      "headline3": "c) Pengguna Layanan",
+      "paragraph3": "Pada saat pengguna sedang mengunjungi layanan kami dari situs, aplikasi, dan teknologi pada platform UpMate, maka kami akan mencatat semua aktivitas dari pengguna  yaitu berupa data penggunaannya. Misalnya, ketika pengguna sedang memilih atau melihat suatu konten dan juga ketika melakukan pemasangan dan memperbarui aplikasi kami. Dalam mencatat data penggunaan pengguna tidak hanya berdasarkan itu saja melainkan juga pada login, alamat protocol internet atau IP, dan cookie.",
+      "headline4": "d) Lainnya",
+      "paragraph4": "Pada aplikasi UpMate ini memiliki layanan yang bersifat dinamis yang kondisinya terus-menerus berubah. Layanan yang diberikan kepada anda akan lebih sering diperbarui dengan cara memperkenalkan fitur baru, tampilan baru, dan teknologi terbaru. Ketika kami sedang mengumpulkan data pribadi pengguna yang ada banyak dan berbeda secara materialnya, sehingga dapat mempengaruhi dan mengubah upaya yang kami lakukan seperti ketika menggunakan, membagikan, dan juga membagikan data anda. Untuk informasi terbaru dalam perkembangan aplikasi ini akan di infokan melalui notifikasi."
+    },
+    "how_we_collect_data": {
+      "title": "BAGAIMANA CARA KAMI MENGUMPULKAN DATA",
+      "paragraph": "Dalam menggunakan data pribadi anda yang kami kumpulkan tergantung dari bagaimana anda menggunakan layanan tersebut dan mengatur pilihan informasi dari pengaturan yang anda buat. Kami menggunakan  menggunakan informasi yang telah didapatkan digunakan untuk menyediakan, mengoperasikan produk dan layanan UpMate. Dalam menggunakan informasi tersebut juga bertujuan untuk meningkatkan, mempersonalisasi, dan layanan kami, sehingga pengguna mempunyai pengalaman yang  lebih baik lagi di UpMate, termasuk dengan menampilkan konten dan iklan menjadi lebih relevan, menyarankan orang dan topik untuk diikuti.",
+      "headline1": "a) Layanan",
+      "paragraph1": "Kami menggunakan informasi yang telah kami kumpulkan bertujuan untuk meningkatkan, mempersonalisasi produk dan layanan kami sehingga pengguna mempunyai pengalaman yang menarik di aplikasi UpMate. Dalam layanan yang kami miliki anda dapat mengikuti dan melihat informasi terbaru terhadap teman, saudara, dan seorang profesional sesuai dengan bidangnya masing-masing. Tidak hanya itu saja kami menggunakan data anda berguna untuk  memudahkan  pengguna lain untuk menemukan profil anda dan memungkinkan pengguna lain untuk menjadi teman yang akan terhubung dengan anda.",
+      "headline2": "b) Keamanan dan Investigasi",
+      "paragraph2": "Kami bertanggung jawab atas penggunaan informasi yang kami kumpulkan dari data pengguna, sehingga kami akan memberikan keselamatan dan keamanan bagi pengguna layanan kami termasuk keamanan akun pengguna. Dengan memberikan keamanan  bagi data pengguna bertujuan untuk melindungi dari penipuan, aktivitas ilegal, dan upaya yang membahayakan pengguna lainnya. Kami juga menggunakan informasi tersebut untuk mengevaluasi keamanan dan kualitas konten pada aplikasi UpMate. Kami akan terus menyelidiki dan menegakkan kebijakan dan persyaratan  yang berlaku.",
+      "headline3": "c) Komunikasi dan tentang layanan kami",
+      "paragraph3": "Kami menggunakan informasi yang telah dikumpulkan  berguna untuk berkomunikasi dengan anda tentang pembaruan aplikasi, perubahan kebijakan dan ketentuan dari layanan aplikasi kami. Dalam menghubungi anda  tentang dalam hal tersebut kami akan mengirimkan lewat email. Untuk pemberitahuan tentang postingan konten, pesan yang masuk, dan pemberitahuan lainnya akan muncul pada notifikasi handphone kalian.",
+      "headline4": "d) Mengembangkan Layanan dan Penelitian",
+      "paragraph4": "Kami menggunakan informasi yang anda berikan kepada kami untuk melakukan survei, penelitian, dan pengembangan layanan yang bertujuan meningkatkan layanan yang kami mempunyai sekarang agar lebih baik lagi kedepannya. Kami akan melakukan survei yang akan dilakukan oleh tim kami melalui layanan kami yang dimana anda tidak diwajibkan untuk mengisi survey dari kami, tetapi kami mengharapkan anda mengisi survey tersebut untuk menjadikan layanan kami lebih baik lagi."
+    },
+    "how_we_share_info": {
+      "title": "BAGAIMANA CARA KAMI BERBAGI INFORMASI",
+      "content1": {
+        "headline": "a) Posting, suka, komentar, dan mengikuti",
+        "paragraph": "Dengan adanya layanan yang kami miliki memungkinkan pengguna aplikasi UpMate untuk melihat dan berbagi informasi termasuk melalui posting, suka, komentar, dan mengikuti.",
+        "1": "● Ketika pengguna membagikan postingan atau konten secara umum, postingan tersebut  dapat dilihat oleh semua orang dan dapat dibagikan kemana saja termasuk layanan pihak ketiga. Perlu anda ketahui bahwa konten yang dibagikan secara publik akan dapat dilihat oleh anggota, pengunjung, dan lain-lain. Bukan hanya konten saja melainkan nama dan foto profil bisa dilihat oleh anggota maupun pengunjung",
+        "2": "● Ketika anda berinteraksi dengan mengomentari, menyukai, maupun membagikan konten atau postingan pengguna lain, maka pengguna lain dapat melihat aktivitas tersebut dan mengaitkannya dengan anda.",
+        "3": "● Ketika anda mengikuti seseorang ataupun forum, maka anda akan terlihat oleh orang lain atau pemilik forum itu sebagai pengikut.",
+        "4": "● Pada layanan forum kiriman berupa postingan akan dapat dilihat oleh orang lain yang ada dalam forum tersebut. Aktivitas yang ada dalam forum bersifat public, namun dapat diubah pengaturan dalam forum tersebut menjadi private."
+      },
+      "content2": {
+        "headline": "b) Pengungkapan hukum, untuk mencegah bahaya dari kepentingan umum.",
+        "paragraph1": "Kami dapat mengungkapkan informasi tentang anda ketika suatu saat diperlukan seperti waktu panggilan pengadilan maupun proses hukum lainnya dan jika kami yakin bahwa secara wajar diperlukan untuk:",
+        "1": "● Melindungi keamanan dan hak  platform kami, anggota kami, personel, maupun orang lain.",
+        "2": "● Mengatasi penipuan, masalah teknis, atau  melindungi keamanan",
+        "3": "● Menyelidiki atau mengambil tindakan tentang dugaan kegiatan illegal maupun membantu Lembaga pemerintah ",
+        "4": "● Mematuhi hukum, peraturan dan proses hukum",
+        "5": "● Melindungi keamanan  siapapun dan platform kami, termasuk untuk mencegah terjadinya spam dan penyalahgunaan di layanan kami",
+        "6": "● Menjelaskan tentang terjadinya penghapusan konten atau postingan dari layanan platform kami, seperti karena adanya pelanggaran aturan atau kebijakan  di layanan kami",
+        "paragraph2": "Kami berusaha keras untuk menjaga keamanan dan keselamatan pengguna layanan kami. Kami juga berusaha memberi tahu kepada anggota tentang hukum atas data pribadi mereka apabila sesuai dengan penilain kami, kecuali ketika ada permintaan darurat atau dilarang oleh penegak hukum."
+      }
+    },
+    "right_obligations": {
+      "title": "HAK DAN KEWAJIBAN",
+      "content1": {
+        "headline": "a) Kebijakan konten dan perilaku",
+        "paragraph1": "Kewajiban anda sebagai pengguna aplikasi UpMate yaitu memperhatikan tentang kebijakan konten dan perilaku yang tidak menyenangkan. Sebelum anda membagikan konten harap untuk menyaring terlebih dahulu konten tersebut dari hal-hal yang negatif. Ketika anda membagikan konten berisi hal-hal yang negatif dapat menyebabkan merugikan pengguna lain atau orang lain. Konten yang tidak pantas anda sebarkan pada aplikasi ini contohnya  seperti :",
+        "1": "• Konten yang berisi tentang memfitnah, berbau sara, cabul, kekerasan, perjudian, dan melanggar hukum",
+        "2": "• Konten yang melanggar hak pihak ketiga manapun, termasuk hak cipta, privasi, publisitas, hak pribadi atau hak lainnya, atau yang menipu dan kecurangan.",
+        "3": "• Konten yang mempromosikan penjualan dan penggunaan zat illegal, produk tembakau, amunisi, dan senjata api.",
+        "paragraph2": "Setiap pengguna dapat menandai  konten yang mereka anggap tidak pantas untuk ditinjau. Konten akan dimoderasi untuk memastikan penghapusan tepat waktu dari setiap dan semua konten yang tidak pantas. Untuk terhadap para pengguna yang melakukan pelanggaran seperti yang dijelaskan diatas, maka akan mendapatkan sanksi dan bertanggung jawab atas perbuatan yang telah mereka lakukan dalam membagikan konten. Untuk yang melanggar kebijakan tersebut akun pengguna akan dibatasi aksesnya dalam menggunakan aplikasi UpMate."
+      },
+      "content2": {
+        "headline": "b) Data Retention",
+        "paragraph": "Pada umumnya kami akan menyimpan data pribadi  pengguna selama anda masih aktif dalam menggunakan platform kami di akun yang sama dan termasuk data yang diberikan oleh anda maupun orang lain dari penggunaan layanan kami. Jika ketika pengguna menggunakan layanan kami dalam jangka waktu sebentar hanya untuk melihat-lihat layanan kami dan setelah itu tidak memakai layanan kami lagi, kami akan menjaga profil anda tetap terbuka  kecuali ketika anda ingin menutup atau menghapus akun anda."
+      },
+      "content3": {
+        "headline": "c) Hak untuk Mengakses dan Mengontrol Data Pribadi Anda",
+        "paragraph": "Kami menyediakan UpMate untuk orang-orang yang ada di seluruh dunia dan menyediakan alat dan kontrol privasi yang sama untuk semua pengguna layanan kami baik dari lokal maupun negara lain. Kami telah mempertimbangkan alasan hukum mengapa diizinkan untuk mengumpulkan, memproses, dan menggunakan informasi dari pengguna layanan kami. Kami juga menyediakan beberapa pilihan  tentang penggunaan dan pembagian data anda, mengedit dan menghapus data pengguna yang disertakan di profil, serta mengontrol visibilitas postingan pengguna hingga penyisihan iklan.\n\nPada data pribadi yang kami miliki yang berkaitan tentang anda, pengguna mempunyai hak seperti:",
+        "1": "● Mengubah atau edit data : Anda berhak untuk mengubah beberapa data pribadi anda pada melalui akun anda dan juga dapat meminta bantuan untuk memperbarui data melalui layanan kami ketika data yang dikirim tidak akurat.",
+        "2": "● Hak untuk mengambil dan mengakses data anda : Pengguna diberi hak untuk dapat meminta kepada kami menyalin data pribadinya",
+        "3": "● Membatasi penggunaan data :  Pengguna diizinkan meminta  kepada kami untuk berhenti menggunakan sebagian data pribadinya ketika kami tidak mempunyai hak hukum.",
+        "4": "● Hapus data : Pengguna diizinkan meminta kepada layanan kami  untuk menghapus sebagian maupun semua data pribadi milik pengguna."
+      }
+    },
+    "other_important_information": {
+      "title": "INFORMASI PENTING LAINNYA",
+      "headline1": "a) Keamanan",
+      "paragraph1": "Kami mengimplementasikan perlindungan terhadap keamanan seperti HTTPS yang berfungsi untuk melindungi keamanan data pribadi pengguna. Untuk menjaga keamanan dan privasi anda, kami menerapkan langkah-langkah  yaitu berupa memverifikasi identitas pengguna sebelum kami memberi akses kepada anda ke informasi pribadi atau permintaan terkait lainnya. Kami mempunyai wewenang untuk menolak akses ketika  anda tidak dapat memverifikasi identitas anda. Kami juga secara teratur memantau sistem layanan kami dari kemungkinan serangan atau kerentanan, sehingga kami tidak dapat menjamin dan tidak ada jaminan terhadap keamanan informasi apapun yang telah anda kirimkan kepada platform kami. Untuk pertanyaan lebih lanjut anda bisa mengunjungi secara langsung pusat keamanan kami.",
+      "headline2": "b) Informasi Kontak",
+      "paragraph2": "Jika Anda ingin menghubungi kami untuk mempelajari Kebijakan ini lebih lanjut atau menanyakan masalah apa pun yang berkaitan dengan hak perorangan dan Informasi pribadi Anda, Anda dapat mengirim email ke dev@armora-tech.com. "
     }
   }
 }
