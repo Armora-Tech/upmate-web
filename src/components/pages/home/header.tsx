@@ -28,13 +28,13 @@ export function Header() {
         <track src="captions_es.vtt" kind="captions" srcLang="id" label="indonesia_captions" />
       </video>
       <div className="z-10 absolute top-1/2 lg:left-0 left-1/2 transform lg:translate-x-0 -translate-x-1/2 -translate-y-1/2 lg:ml-8 lg:text-7xl md:text-6xl text-4xl lg:items-start items-center font-bold lg:space-y-4 space-y-2 lg:text-start text-center">
-        <h1 className="text-textWhite" data-aos="fade-up">
+        <h1 className="text-textWhite">
           {t("header.line1")}
         </h1>
-        <h1 className="text-textWhite" data-aos="fade-up" data-aos-duration="2300">
+        <h1 className="text-textWhite">
           {t("header.line2")}
         </h1>
-        <h1 className="text-textWhite" data-aos="fade-up" data-aos-duration="2500">
+        <h1 className="text-textWhite">
           {t("header.line3")}
         </h1>
       </div>
