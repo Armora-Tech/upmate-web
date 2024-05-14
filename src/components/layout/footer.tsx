@@ -49,7 +49,7 @@ export function Footer() {
         <div className="mb-8">
           <h1 className="text-xl text-white my-5">{t("footer.download")} UpMate</h1>
           <a target="blank" href="https://play.google.com/store/apps/details?id=com.armoratech.upmate&hl=id&gl=US">
-            <img src={googlePlayImg} alt="google_play" width={120} />
+            <img src={googlePlayImg} alt="google_play" width="120px" height="50px" />
           </a>
         </div>
       </div>

@@ -5,10 +5,9 @@ import "swiper/css/effect-coverflow";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
 
-import recommendation from "../../../assets/images/upmateFeatures/recommendation.jpg";
 import SlideNextButton from "../../shared/next_button_slider";
 import SlidePrevButton from "../../shared/prev_button_slide";
-import { badword, chat, explore, peci, post, spam } from "../../../assets/images/upmateFeatures";
+import { recommendation, badword, chat, explore, peci, post, spam } from "../../../assets/images/upmateFeatures";
 import { useState } from "react";
 
 interface UpMateFeatures {

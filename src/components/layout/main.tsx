@@ -6,7 +6,7 @@ import { Footer } from "./footer";
 
 export default function MyApp(props: { children: React.ReactNode }) {
   useEffect(() => {
-    AOS.init({ duration: 2000, delay: 200 });
+    AOS.init({ duration: 2000 });
   }, []);
   return (
     <>
