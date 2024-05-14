@@ -8,7 +8,7 @@ export function Privacy() {
     <>
       <Headline1>{t("terms_conditions.privacy.title")}</Headline1>
       <p>
-        {t("terms_conditions.privacy.paragraph1")} <a href="">LINK</a> {t("terms_conditions.privacy.paragraph2")}
+        {t("terms_conditions.privacy.paragraph1")} <a href="/privacy-policy">here</a> {t("terms_conditions.privacy.paragraph2")}
       </p>
     </>
   );
