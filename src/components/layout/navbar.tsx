@@ -49,12 +49,8 @@ export function Navbar() {
     };
   }, []);
 
-  const handleMouseEnter = () => {
-    setDropdownVisible(true);
-  };
-
-  const handleMouseLeave = () => {
-    setDropdownVisible(false);
+  const toggleDropdown = () => {
+    setDropdownVisible((prevState) => !prevState);
   };
 
   const handleLanguageChange = (lang: string) => {
@@ -65,7 +61,7 @@ export function Navbar() {
     <nav className={`md:px-10 px-5 py-5 flex flex-row justify-between items-center fixed top-0 w-full z-50 ${navbarBackgroundClass}`}>
       <LogoWText textColor={textColorClass} />
       <ul className={`flex-row space-x-10 items-center text-xl`}>
-        <li className="flex flex-row space-x-2 items-center hover:cursor-pointer" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>
+        <li className="flex flex-row space-x-2 items-center hover:cursor-pointer" onMouseEnter={() => setDropdownVisible(true)} onMouseLeave={() => setDropdownVisible(false)} onClick={toggleDropdown}>
           <div className="mt-1">
             <LangIcon fillColor={iconColorClass} />
           </div>
@@ -78,7 +74,7 @@ export function Navbar() {
             <ul className="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDelayButton">
               {Object.keys(languages).map((lang) => (
                 <li key={lang}>
-                  <a className="block px-4 py-2 hover:bg-gray-300" onClick={() => handleLanguageChange(lang)}>
+                  <a className="block px-4 py-2 hover:bg-gray-300" onMouseEnter={() => handleLanguageChange(lang)}>
                     {languages[lang as keyof Languages]}
                   </a>
                 </li>
